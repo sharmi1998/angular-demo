@@ -1,5 +1,5 @@
 {
-  "name": "angular",
+  "name": "angular-project",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -51,5 +51,12 @@
   "engines": {
     "node": "~10.16.1",
     "npm": "~6.9.0"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3.",
+  "main": "app.js",
+  "author": "sharmi",
+  "license": "ISC",
+  "keywords": [
+    "angular"
+  ]
 }
